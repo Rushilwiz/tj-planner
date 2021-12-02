@@ -8,7 +8,7 @@ CONFIG_LOC = "config.yml"
 INFO_LOC = "info.yml"
 COURSES_LOC = "static/data/courses.json"
 LABS_LOC = "static/data/labs.json"
-GITHUB_URL = "https://github.com/greenturtle1134/tj-planner/commit/"
+GITHUB_URL = "https://github.com/rushilwiz/tj-planner/commit/"
 
 app = Flask(__name__)
 assets = Environment(app)
